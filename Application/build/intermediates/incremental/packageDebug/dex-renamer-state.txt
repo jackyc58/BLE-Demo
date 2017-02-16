@@ -1,0 +1,7 @@
+#Thu Feb 16 14:19:14 CST 2017
+base.0=C\:\\Users\\jackyc58\\AndroidStudioProjects\\BLE-Demo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f43ad05674aef6a3370596ee5ddeae2b3cc3dec9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jackyc58\\AndroidStudioProjects\\BLE-Demo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d18078aed3a7629e7ee8070b437dfb9502c15adc\\classes.dex
+base.1=C\:\\Users\\jackyc58\\AndroidStudioProjects\\BLE-Demo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d18078aed3a7629e7ee8070b437dfb9502c15adc
+file.0=C\:\\Users\\jackyc58\\AndroidStudioProjects\\BLE-Demo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f43ad05674aef6a3370596ee5ddeae2b3cc3dec9\\classes.dex
